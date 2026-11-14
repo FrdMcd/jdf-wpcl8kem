@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Journal de Fred</title>
+    <link>https://frdmcd.github.io/jdf-wpcl8kem/</link>
+    <language>fr</language>
+    <description>Le journal audio du matin.</description>
+    <lastBuildDate>Sat, 14 Nov 2026 05:35:01 +0000</lastBuildDate>
+    <itunes:author>Journal de Fred</itunes:author>
+    <itunes:summary>Le journal audio du matin.</itunes:summary>
+    <itunes:image href="https://frdmcd.github.io/jdf-wpcl8kem/cover.jpg"/>
+    <image><url>https://frdmcd.github.io/jdf-wpcl8kem/cover.jpg</url><title>Journal de Fred</title><link>https://frdmcd.github.io/jdf-wpcl8kem/</link></image>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Journal du samedi 14 novembre 2026</title>
+      <description>Salut Fred, on est samedi quatorze novembre. Les titres du jour. Une panne géante du contrôle aérien a cloué tous les avions au sol aux États-Unis vendredi soir. Les manifestations contre la vie chère reprennent ce samedi, pour un cinquième week-end d'affilée. La fonction publique fera grève mardi, avec la CFDT cette fois. Et Donald Trump, Xi Jinping et Vladimir Poutine seront à Shenzhen jeudi prochain, selon la Maison-Blanche.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-14.mp3" length="12498112" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 05:34:59 +0000</pubDate>
+      <itunes:duration>00:17:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du vendredi 13 novembre 2026</title>
+      <description>Salut Fred, on est vendredi treize novembre. Et comme par hasard, ça secoue. Chez Nvidia, Jensen Huang quitte tout, et c'est Colette Kress qui prend l'intérim.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-13.mp3" length="11985903" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 05:38:01 +0000</pubDate>
+      <itunes:duration>00:16:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du jeudi 12 novembre 2026</title>
+      <description>Salut Fred, on est jeudi douze novembre. Voilà les titres. Chez Nvidia, le conseil d'administration prépare, selon le Wall Street Journal, l'éviction de Jensen Huang. En Ukraine, les pourparlers d'Abou Dhabi débouchent sur un échange de prisonniers, et les émissaires américains sont à Moscou ce matin. En Iran, Téhéran menace les bases américaines en Europe et le Brent remonte. Du côté d'Anthropic, l'introduction en Bourse approche. Aux États-Unis, le dix ans flirte avec cinq pour cent, et la Fed continue de parler de hausses. Et ce soir, Italie - France à San Siro.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-12.mp3" length="10216682" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 05:52:35 +0000</pubDate>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du mercredi 11 novembre 2026</title>
+      <description>Salut Fred, on est mercredi onze novembre. Voilà les titres. Les pourparlers entre l'Ukraine et la Russie ont repris à Abou Dhabi, avec les Américains à la médiation et une équipe européenne sur place. L'Iran est accusé d'avoir saboté plus de sept cents supermarchés français avec une cyberattaque. Éric Zemmour a annoncé sa candidature hier soir sur TF1. Et côté marchés, le pétrole est autour de quatre-vingt-douze dollars, en recul de plus de vingt pour cent depuis fin octobre.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-11.mp3" length="11480904" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 05:53:20 +0000</pubDate>
+      <itunes:duration>00:15:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du mardi 10 novembre 2026</title>
+      <description>Salut Fred, on est mardi dix novembre. Au programme ce matin. L'Iran, où Donald Trump joue l'apaisement et où le pétrole retombe sous les quatre-vingt-quatorze dollars. Un grand rebond à Wall Street hier. Le Smic, dont une hausse avancée à décembre est annoncée, mais pas confirmée de façon solide. L'inflation américaine, attendue cet après-midi. Et Nvidia, secoué par une affaire de moeurs qui prend des airs d'affaire d'espionnage.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-10.mp3" length="9508554" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 05:40:56 +0000</pubDate>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du lundi 9 novembre 2026</title>
+      <description>Salut Fred, on est lundi neuf novembre. Au programme ce matin. Wall Street a connu une semaine de krach sur l'intelligence artificielle, avec un petit rebond vendredi. Le détroit d'Ormuz reste fermé et le pétrole en dépend. En Californie, les électeurs ont, pour l'instant, dit non à l'impôt sur les milliardaires. En France, on parle d'un Smic revalorisé plus tôt que prévu, et d'une grande coalition pour deux mille vingt-sept. Et sur l'Atlantique, la Route du Rhum a trouvé son vainqueur, au bout d'une édition vraiment rude.</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-09.mp3" length="9646481" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 05:31:50 +0000</pubDate>
+      <itunes:duration>00:13:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Journal du dimanche 8 novembre 2026</title>
+      <description>Salut Fred, on est dimanche huit novembre. Voilà ce qui fait l'actualité. D'abord, la Pologne : une fusillade en plein centre de Cracovie samedi, avec six morts sur la place, et trois proches du tireur retrouvés morts chez lui. Au Proche-Orient, les Houthis disent avoir attaqué Riyad aujourd'hui, dans une région déjà très tendue. En Israël, Gadi Eisenkot reçoit la mission de former le prochain gouvernement, face à Netanyahu. Aux États-Unis, les démocrates l'emportent aux élections de mi-mandat, et c'est lié à la grosse secousse de la semaine en Bourse. En France, la mobilisation contre la vie …</description>
+      <enclosure url="https://frdmcd.github.io/jdf-wpcl8kem/2026-11-08.mp3" length="12339804" type="audio/mpeg"/>
+      <guid isPermaLink="false">journal-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 15:08:53 +0000</pubDate>
+      <itunes:duration>00:17:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
